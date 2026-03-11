@@ -1,16 +1,50 @@
-# React + Vite
+# 🏍️ Moto Peças - E-commerce Premium
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="./public/preview.png" alt="Preview do site Moto Peças" width="100%" style="border-radius: 8px;" />
+</p>
 
-Currently, two official plugins are available:
+> E-commerce moderno e responsivo para venda de peças e acessórios premium para motos. Desenvolvido com uma interface rica, este projeto foca na melhor experiência do usuário e alta performance.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Funcionalidades Principais
 
-## React Compiler
+- 🛒 **Carrinho de Compras Global:** Sistema de carrinho inteligente com gerenciador de quantidade, atualizações em tempo real e barra lateral interativa (*sidebar*).
+- 📱 **Design Responsivo:** Totalmente otimizado para celulares e computadores, oferecendo uma experiência fluida.
+- ⏱️ **Promoções com Cronômetro:** Seção interativa de contagem regressiva para ofertas por tempo limitado.
+- 🔍 **Vitrine de Produtos Eficiente:** Filtros por categorias (Capacetes, Peças, Acessórios, Vestuário) e destaques de produtos.
+- ⚡ **Alta Performance:** Construído com Vite, garantindo builds rápidos e navegação suave (Single Page Application).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+- **[React 19](https://react.dev/)**: Biblioteca JavaScript para construção da interface.
+- **[Vite](https://vitejs.dev/)**: Ferramenta de build super rápida.
+- **Context API**: Gerenciamento do estado global (Carrinho, Produtos).
+- **CSS3 Moderno**: Estilização rica, animações suaves e glassmorphism nativo (sem libs extras dependendo do caso).
+- **[Lucide React](https://lucide.dev/)**: Conjunto de ícones premium.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Como Executar o Projeto Localmente
+
+1. Faça o clone do repositório:
+```bash
+git clone https://github.com/RobsonMarcolino/moto-pecas.git
+```
+
+2. Acesse a pasta do projeto:
+```bash
+cd moto-pecas
+```
+
+3. Instale as dependências:
+```bash
+npm install
+```
+
+4. Execute o servidor de desenvolvimento:
+```bash
+npm run dev
+```
+
+5. O projeto estará rodando localmente, normalmente em `http://localhost:5173`.
+
+---
+<p align="center">Desenvolvido com dedicação por Robson Marcolino. 🚀</p>

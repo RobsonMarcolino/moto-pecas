@@ -1,7 +1,7 @@
 # 🏍️ Moto Peças - E-commerce Premium
 
 <p align="center">
-  <img src="./public/preview.png" alt="Preview do site Moto Peças" width="100%" style="border-radius: 8px;" />
+  <img src="./public/preview.webp" alt="Preview do site Moto Peças" width="100%" style="border-radius: 8px;" />
 </p>
 
 > E-commerce moderno e responsivo para venda de peças e acessórios premium para motos. Desenvolvido com uma interface rica, este projeto foca na melhor experiência do usuário e alta performance.
@@ -15,4 +15,4 @@
 - **[Lucide React](https://lucide.dev/)**: Conjunto de ícones premium.
 
 ---
-<p align="center">Desenvolvido por Robson Marcolino. 🚀</p>
+<p align="center">Desenvolvido com dedicação por Robson Marcolino. 🚀</p>
